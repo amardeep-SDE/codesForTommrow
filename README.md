@@ -9,7 +9,7 @@
 
 ## Features
 - Tree view structure for folders/files
-- Add, Delete, Rename files
+- Add, Delete, Update and Read files [ CRUD operation]
 - Live Search
 
 
